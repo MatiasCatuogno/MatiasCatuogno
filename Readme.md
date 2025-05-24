@@ -2,7 +2,7 @@
 ### Desarrollador Web Full-Stack, Autodidacta. Tengo 29 años y soy de Buenos Aires, Argentina 🇦🇷
 
 # ⌨ Soft Skills
-### Planificación, Organización, y Comunicación Efectiva, Iniciativa, Pasión Por Aprender, Aprendizaje Contínuo.
+### Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
 
 # 💻 Hard Skills:
 ## Front-End:
