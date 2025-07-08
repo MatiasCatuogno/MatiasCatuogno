@@ -4,7 +4,7 @@
 # ⌨ Soft Skills
 ### Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
 
-🧰 ##Tecnologías que uso con frecuencia:
+## 🧰 Tecnologías que uso con frecuencia:
 - Front-End: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.Js, Redux, Axios
 - Back-End: Node.js, Express, MongoDB, MySQL, PHP
 - Herramientas: Git, GitHub, Figma, Docker, Postman
