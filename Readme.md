@@ -32,7 +32,7 @@ Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje C
 📬 Contacto:
 Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme:
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiascatuogno/)
+- 💼 [LinkedIn](https://linkedin.com/in/matiascatuogno/)
 - 🌐 [Portfolio Web](https://www.mc-solutions.com.ar)
 - 📧 matiascatuogno@gmail.com
 
