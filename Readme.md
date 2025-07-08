@@ -1,8 +1,13 @@
 # ¡Hola! Soy Matias 👋
-### Desarrollador Web Full-Stack, Autodidacta. Tengo 29 años y soy de Buenos Aires, Argentina 🇦🇷
+### 🎯 Desarrollador Web Full-Stack, autodidacta y apasionado por la tecnología. Tengo 29 años y vivo en Buenos Aires, Argentina. Me especializo en el desarrollo de aplicaciones modernas tanto del lado del cliente como del servidor, aplicando buenas prácticas, diseño funcional y herramientas actuales. Estoy comprometido con la mejora constante de mis habilidades técnicas. Me apasiona aprender cosas nuevas, resolver problemas y trabajar en proyectos desafiantes.
 
 # ⌨ Soft Skills
 ### Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
+
+🧰 Tecnologías que uso con frecuencia:
+- Front-End: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.Js, Redux, Axios
+- Back-End: Node.js, Express, MongoDB, MySQL, PHP
+- Herramientas: Git, GitHub, Figma, Docker, Postman
 
 # 💻 Hard Skills:
 ## Front-End:
@@ -24,5 +29,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCatuogno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiascatuogno/)
+📬 Contacto:
+Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme:
+
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiascatuogno/)
+- 🌐 [Portfolio Web](https://www.mc-solutions.com.ar)
+- 📧 matiascatuogno@gmail.com
+
+Gracias por visitar mi perfil 🚀
