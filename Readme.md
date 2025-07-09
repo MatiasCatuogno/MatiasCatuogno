@@ -1,8 +1,8 @@
 # ¡Hola! Soy Matias 👋
-### 🎯 Desarrollador Web Full-Stack, autodidacta y apasionado por la tecnología. Tengo 29 años y vivo en Buenos Aires, Argentina. Me especializo en el desarrollo de aplicaciones modernas tanto del lado del cliente como del servidor, aplicando buenas prácticas, diseño funcional y herramientas actuales. Estoy comprometido con la mejora constante de mis habilidades técnicas. Me apasiona aprender cosas nuevas, resolver problemas y trabajar en proyectos desafiantes.
+🎯 Desarrollador Web Full-Stack, autodidacta y apasionado por la tecnología. Tengo 29 años y vivo en Buenos Aires, Argentina. Me especializo en el desarrollo de aplicaciones modernas tanto del lado del cliente como del servidor, aplicando buenas prácticas, diseño funcional y herramientas actuales. Estoy comprometido con la mejora constante de mis habilidades técnicas. Me apasiona aprender cosas nuevas, resolver problemas y trabajar en proyectos desafiantes.
 
 ## ⌨ Soft Skills
-### Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
+- Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
 
 ## 🧰 Tecnologías que uso con frecuencia:
 - Front-End: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React.Js, Redux, Axios
