@@ -38,7 +38,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MatiasCatuogno&theme=dark&hide_border=false)
 
 📬 Contacto:
-## Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme:
+Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme:
 
 - 💼 [LinkedIn](https://linkedin.com/in/matiascatuogno/)
 - 🌐 [Portfolio Web](https://www.mc-solutions.com.ar)
