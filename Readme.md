@@ -1,13 +1,55 @@
-# ¡Hola! Soy Matias 👋
-🎯 Desarrollador Web Full-Stack, autodidacta y apasionado por la tecnología. Tengo 30 años y vivo en Buenos Aires, Argentina. Me especializo en el desarrollo de aplicaciones modernas tanto del lado del cliente como del servidor, aplicando buenas prácticas, diseño funcional y herramientas actuales. Estoy comprometido con la mejora constante de mis habilidades técnicas. Me apasiona aprender cosas nuevas, resolver problemas y trabajar en proyectos desafiantes.
+👋 Hola, soy Matías
 
-## ⌨ Soft Skills
-- Comunicación Efectiva, Iniciativa, Planificación, Organización, Aprendizaje Contínuo, Pasión Por Aprender.
+💻 Desarrollador Web Full-Stack especializado en la creación de aplicaciones modernas, escalables y mantenibles.
 
-## 🧰 Tecnologías que uso con frecuencia:
-- Front-End: HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript, React.Js, Redux, Axios
-- Back-End: Node.js, Express, MongoDB, MySQL, PHP
-- Herramientas: Git, GitHub, Figma, Docker, Kubernetes, Moca, Chai, Supertest, Postman, Figma
+Tengo experiencia desarrollando proyectos completos (frontend + backend), aplicando buenas prácticas, arquitectura modular y herramientas actuales del ecosistema JavaScript.
+
+🚀 Me enfoco en escribir código limpio, optimizar procesos y seguir evolucionando constantemente como desarrollador.
+
+🧠 Sobre mí
+- 🔧 Experiencia trabajando en proyectos propios y freelance
+- 📈 Enfoque en mejora continua y aprendizaje constante
+- 🤝 Buen desempeño en entornos colaborativos
+- 🧩 Resolución de problemas y pensamiento lógico
+- ⚡ Adaptación rápida a nuevas tecnologías
+- 🧰 Tecnologías principales
+
+Frontend:
+HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript (ES6+), TypeScript, React, Redux
+
+Backend:
+Node.js, Express, NestJS, PHP
+
+Bases de datos:
+MongoDB, MySQL
+
+Testing:
+Mocha, Chai, SuperTest, Artillery
+
+DevOps & Cloud:
+Docker, Kubernetes, CI/CD, GitHub Actions
+
+Herramientas:
+Git, GitHub, Postman, Figma
+
+⚙️ Enfoque de desarrollo
+- Arquitectura modular y escalable
+- Buenas prácticas (clean code)
+- Testing y validación de APIs
+- Integración de servicios externos
+- Automatización de procesos con CI/CD
+
+📌 Actualmente
+📚 Profundizando en:
+
+- TypeScript avanzado
+- Arquitecturas backend con NestJS
+- DevOps y despliegue en la nube
+
+📫 Contacto
+💼 LinkedIn: https://linkedin.com/in/matiascatuogno
+🌐 Portfolio: https://www.mc-solutions.com.ar
+📧 Email: matiascatuogno@gmail.com
 
 # 💻 Hard Skills:
 ### Front-End:
@@ -38,10 +80,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MatiasCatuogno&theme=dark&hide_border=false)
 
 ### 📬 Contacto:
-Si estás buscando un desarrollador apasionado y comprometido, no dudes en contactarme.
 
 - 💼 [LinkedIn](https://linkedin.com/in/matiascatuogno)
 - 🌐 [Portfolio Web](https://www.mc-solutions.com.ar)
 - 📧 matiascatuogno@gmail.com
-
-Gracias por visitar mi perfil 🚀
