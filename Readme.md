@@ -40,14 +40,14 @@ Git, GitHub, Postman, Figma
 - Integración de servicios externos
 - Automatización de procesos con CI/CD
 
-# 📌 Actualmente
-📚 Profundizando en:
+## 📌 Actualmente
+# 📚 Profundizando en:
 
 - TypeScript avanzado
 - Arquitecturas backend con Node y Nest.js
 - DevOps y despliegue en la nube
 
-### 📬 Contacto:
+## 📬 Contacto:
 
 - 💼 [LinkedIn](https://linkedin.com/in/matiascatuogno)
 - 🌐 [Portfolio Web](https://www.mc-solutions.com.ar)
