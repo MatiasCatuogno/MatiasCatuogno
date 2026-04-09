@@ -1,4 +1,4 @@
-👋 Hola, soy Matías
+# 👋 Hola, soy Matías
 
 💻 Desarrollador Web Full-Stack especializado en la creación de aplicaciones modernas, escalables y mantenibles.
 
@@ -6,7 +6,7 @@ Tengo experiencia desarrollando proyectos completos (frontend + backend), aplica
 
 🚀 Me enfoco en escribir código limpio, optimizar procesos y seguir evolucionando constantemente como desarrollador.
 
-🧠 Sobre mí
+## 🧠 Sobre mí
 - 🔧 Experiencia trabajando en proyectos propios y freelance
 - 📈 Enfoque en mejora continua y aprendizaje constante
 - 🤝 Buen desempeño en entornos colaborativos
@@ -15,32 +15,32 @@ Tengo experiencia desarrollando proyectos completos (frontend + backend), aplica
 
 ## 🧰 Tecnologías principales:
 
-Frontend:
+- Frontend:
 HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript (ES6+), TypeScript, React, Redux
 
-Backend:
+- Backend:
 Node.js, Express, NestJS, PHP
 
-Bases de datos:
+- Bases de datos:
 MongoDB, MySQL, Sequelize (ORM)
 
-Testing:
+- Testing:
 Mocha, Chai, SuperTest, Artillery
 
-DevOps & Cloud:
+- DevOps & Cloud:
 Docker, Kubernetes, CI/CD, GitHub Actions
 
-Herramientas:
+- Herramientas:
 Git, GitHub, Postman, Figma
 
-⚙️ Enfoque de desarrollo
+## ⚙️ Enfoque de desarrollo
 - Arquitectura modular y escalable
 - Buenas prácticas (clean code)
 - Testing y validación de APIs
 - Integración de servicios externos
 - Automatización de procesos con CI/CD
 
-📌 Actualmente
+# 📌 Actualmente
 📚 Profundizando en:
 
 - TypeScript avanzado
