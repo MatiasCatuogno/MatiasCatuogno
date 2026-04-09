@@ -41,7 +41,7 @@ Git, GitHub, Postman, Figma
 - Automatización de procesos con CI/CD
 
 ## 📌 Actualmente
-# 📚 Profundizando en:
+### 📚 Profundizando en:
 
 - TypeScript avanzado
 - Arquitecturas backend con Node y Nest.js
