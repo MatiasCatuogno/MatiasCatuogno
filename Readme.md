@@ -16,10 +16,10 @@ Tengo experiencia desarrollando proyectos completos (frontend + backend), aplica
 ## 🧰 Tecnologías principales:
 
 - Frontend:
-HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript (ES6+), TypeScript, React, Redux
+HTML5, CSS3, Sass, Bootstrap, Tailwind, JavaScript (ES6+), TypeScript, React, Next.js
 
 - Backend:
-Node.js, Express, NestJS, PHP
+Node.js, Express, Nest.js, Next.js, PHP
 
 - Bases de datos:
 MongoDB, MySQL, Sequelize (ORM)
@@ -44,8 +44,8 @@ Git, GitHub, Postman, Figma
 ### 📚 Profundizando en:
 
 - TypeScript avanzado
-- Arquitecturas backend con Node y Nest.js
 - DevOps y despliegue en la nube
+- Arquitecturas backend con Node, Nest.js y Next.js
 
 ## 📬 Contacto:
 
